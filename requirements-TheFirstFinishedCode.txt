@@ -1,0 +1,5 @@
+# Requirements for TheFirstFinishedCode.py
+ultralytics
+torch
+opencv-python
+numpy

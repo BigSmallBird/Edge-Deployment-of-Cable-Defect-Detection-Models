@@ -1,0 +1,4 @@
+# Requirements for fitONXX.py
+onnxruntime
+numpy
+opencv-python
